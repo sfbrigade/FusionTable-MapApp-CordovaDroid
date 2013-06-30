@@ -1,4 +1,5 @@
-FusionTable-MapApp-CordovaDroid
-===============================
-
-this is a android Cordova instance with an internal submodule of the similarly named site that displays health dept scores
+SFParking-Mobile
+================
+remember to git submodule init
+and git submodule update
+and update to pull
